@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2272e9a4-7b8b-48d0-ad94-817420548bce" name="Changes" comment="✨ feat(graph): add chart component&#10;&#10;This commit adds a new chart component to the metrics graph page. The chart component uses the recharts library to display a line chart. The chart shows the average and today's values for a set of data points.&#10;&#10;The chart component is defined in the `frontend/app/(core)/metrics/graph/page.tsx` file. It uses the `LineChart`, `Line`, `XAxis`, `YAxis`, `Tooltip`, and `Legend` components from the recharts library.&#10;&#10;The chart component receives data as a prop and renders the line chart with the provided data. The data is an array of objects, each representing a data point with an average and today's value.&#10;&#10;The chart component is wrapped in a `div` with the class `h-screen; w-screen bg-amber-400` to style its appearance. The chart itself is contained within a `div` with the class `bg-green-300`.&#10;&#10;The line chart has a width of" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Wyc9tl663DRGzqHD3mEOWBpOrZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "com.github.blarc.ai.commits.intellij.plugin.settings.AppSettingsConfigurable",
+    "ts.external.directory.path": "/Users/raphaelluethy/Documents/projects/private/go-metrics/frontend/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/(core)/metrics/graph" />
+      <recent name="$PROJECT_DIR$/app/(core)/metrics" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-b1710f1fd4a1-JavaScript-WS-233.9802.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2272e9a4-7b8b-48d0-ad94-817420548bce" name="Changes" comment="" />
+      <created>1697708112385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697708112385</updated>
+      <workItem from="1697708115338" duration="31000" />
+      <workItem from="1697708166822" duration="1649000" />
+      <workItem from="1697709825839" duration="2380000" />
+    </task>
+    <task id="LOCAL-00001" summary="✨ feat(graph): add chart component&#10;&#10;This commit adds a new chart component to the metrics graph page. The chart component uses the recharts library to display a line chart. The chart shows the average and today's values for a set of data points.&#10;&#10;The chart component is defined in the `frontend/app/(core)/metrics/graph/page.tsx` file. It uses the `LineChart`, `Line`, `XAxis`, `YAxis`, `Tooltip`, and `Legend` components from the recharts library.&#10;&#10;The chart component receives data as a prop and renders the line chart with the provided data. The data is an array of objects, each representing a data point with an average and today's value.&#10;&#10;The chart component is wrapped in a `div` with the class `h-screen; w-screen bg-amber-400` to style its appearance. The chart itself is contained within a `div` with the class `bg-green-300`.&#10;&#10;The line chart has a width of">
+      <option name="closed" value="true" />
+      <created>1697715834778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697715834778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tailwind.config.js" />
+        <option value="$PROJECT_DIR$/tailwind.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="✨ feat(graph): add chart component&#10;&#10;This commit adds a new chart component to the metrics graph page. The chart component uses the recharts library to display a line chart. The chart shows the average and today's values for a set of data points.&#10;&#10;The chart component is defined in the `frontend/app/(core)/metrics/graph/page.tsx` file. It uses the `LineChart`, `Line`, `XAxis`, `YAxis`, `Tooltip`, and `Legend` components from the recharts library.&#10;&#10;The chart component receives data as a prop and renders the line chart with the provided data. The data is an array of objects, each representing a data point with an average and today's value.&#10;&#10;The chart component is wrapped in a `div` with the class `h-screen; w-screen bg-amber-400` to style its appearance. The chart itself is contained within a `div` with the class `bg-green-300`.&#10;&#10;The line chart has a width of" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ feat(graph): add chart component&#10;&#10;This commit adds a new chart component to the metrics graph page. The chart component uses the recharts library to display a line chart. The chart shows the average and today's values for a set of data points.&#10;&#10;The chart component is defined in the `frontend/app/(core)/metrics/graph/page.tsx` file. It uses the `LineChart`, `Line`, `XAxis`, `YAxis`, `Tooltip`, and `Legend` components from the recharts library.&#10;&#10;The chart component receives data as a prop and renders the line chart with the provided data. The data is an array of objects, each representing a data point with an average and today's value.&#10;&#10;The chart component is wrapped in a `div` with the class `h-screen; w-screen bg-amber-400` to style its appearance. The chart itself is contained within a `div` with the class `bg-green-300`.&#10;&#10;The line chart has a width of" />
+  </component>
+</project>
