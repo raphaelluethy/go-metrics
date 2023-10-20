@@ -1,8 +1,8 @@
 build:
-	go build -o bin/micro
+	go build -o bin/backend
 
 run: build
-	./bin/micro
+	./bin/backend
 
 proto:
 	protoc --go_out=. --go_opt=paths=source_relative \
