@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "github.com/raphaelluethy/go-metrics/backend/proto";
+
+message CreateRequest {
+    string name = 1;
+}
+
+message CreateResponse {
+    string id = 1;
+}
+
+service invoicer {
+  rpc CreateStonkz(CreateRequest) returns (CreateResponse);
+}

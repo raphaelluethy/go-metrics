@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2272e9a4-7b8b-48d0-ad94-817420548bce" name="Changes" comment="✨ feat(graph): add chart component&#10;&#10;This commit adds a new chart component to the metrics graph page. The chart component uses the recharts library to display a line chart. The chart shows the average and today's values for a set of data points.&#10;&#10;The chart component is defined in the `frontend/app/(core)/metrics/graph/page.tsx` file. It uses the `LineChart`, `Line`, `XAxis`, `YAxis`, `Tooltip`, and `Legend` components from the recharts library.&#10;&#10;The chart component receives data as a prop and renders the line chart with the provided data. The data is an array of objects, each representing a data point with an average and today's value.&#10;&#10;The chart component is wrapped in a `div` with the class `h-screen; w-screen bg-amber-400` to style its appearance. The chart itself is contained within a `div` with the class `bg-green-300`.&#10;&#10;The line chart has a width of" />
+    <list default="true" id="2272e9a4-7b8b-48d0-ad94-817420548bce" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +65,7 @@
       <updated>1697708112385</updated>
       <workItem from="1697708115338" duration="31000" />
       <workItem from="1697708166822" duration="1649000" />
-      <workItem from="1697709825839" duration="2380000" />
+      <workItem from="1697709825839" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="✨ feat(graph): add chart component&#10;&#10;This commit adds a new chart component to the metrics graph page. The chart component uses the recharts library to display a line chart. The chart shows the average and today's values for a set of data points.&#10;&#10;The chart component is defined in the `frontend/app/(core)/metrics/graph/page.tsx` file. It uses the `LineChart`, `Line`, `XAxis`, `YAxis`, `Tooltip`, and `Legend` components from the recharts library.&#10;&#10;The chart component receives data as a prop and renders the line chart with the provided data. The data is an array of objects, each representing a data point with an average and today's value.&#10;&#10;The chart component is wrapped in a `div` with the class `h-screen; w-screen bg-amber-400` to style its appearance. The chart itself is contained within a `div` with the class `bg-green-300`.&#10;&#10;The line chart has a width of">
       <option name="closed" value="true" />
